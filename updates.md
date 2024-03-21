@@ -6,5 +6,5 @@ Design adjustments
 Functional Commands
 Darkmode/Lightmode (CMD: /wmode)
 Rewrited methods
-Bugfixes and other preventive verifications
+Bugfixes and other preventive measures
 ```
