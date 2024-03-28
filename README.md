@@ -1,4 +1,4 @@
 # hostlook.net
 Official announcements &amp; updates of hostlook.net
 
-Version: `1.2`
+Version: `1.3`
