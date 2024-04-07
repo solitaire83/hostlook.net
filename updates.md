@@ -1,4 +1,15 @@
 # UPDATE LIST
+### 07.04.2024 `v1.5`
+```
+Backend Improvements
+Updated the command wmode (CMD: /wmode)
+Now you can store your theme after you used the command wtheme (CMD: /wtheme)
+added Minimize and Maximize functionalities to window buttons (now working on both window themes)
+Windows Theme Responsiveness and other design modifications
+Added the command 'reload' which will reset your window settings to default (CMD: /reload)
+The fonts are now imported from our storage not from foreign URLs
+Other preparations to move the project on other hosting provider
+```
 ### 30.03.2024 `v1.4`
 ```
 Fullscreen mode
