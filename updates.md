@@ -1,4 +1,13 @@
 # UPDATE LIST
+### 10.04.2024 `v1.6`
+```
+Now fonts and other files are loaded faster from storage
+Fixed a bug of the wtheme command that doesn't let you return to the default window settings (CMD: /wtheme)
+The Hosting provider has been changed successfully
+Finally added and configured the latest check method which was blocked by the previous hosting provider
+Added the command 'portscan' which will identify all the open TCP ports of your target between the interval 1-9999 (limited interval just for now, more updates are coming for this cmd) (CMD: /portscan)
+Other webhost configurations..
+```
 ### 07.04.2024 `v1.5`
 ```
 Backend Improvements
