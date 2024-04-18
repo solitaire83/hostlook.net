@@ -1,4 +1,14 @@
 # UPDATE LIST
+### 18.04.2024 `v1.7`
+```
+Fixed a bug between /wtheme and /wmode
+Now the fonts are directly loaded in body
+Removed the old loading animation of the window
+Added a new loading animation to the window
+Optimized and improved the way of loading the components
+Added other preventive measures to secure the app
+Optimizations & preparations on the next major update
+```
 ### 10.04.2024 `v1.6`
 ```
 Now fonts and other files are loaded faster from storage
