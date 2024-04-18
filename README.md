@@ -1,7 +1,7 @@
 # hostlook.net
 Official announcements &amp; updates of hostlook.net
 
-Version: `1.6` <sub>(deployed)</sub>
+Version: `1.7` <sub>(deployed)</sub>
 
 ## ``📣 18.04.2024`` <br>Nevermind, our servers got suspended! I will try in the next days to get at least one server for HTTP Checking
 ## ``📣 17.04.2024`` <br>Everything works fine now!
