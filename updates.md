@@ -6,7 +6,7 @@ Improved HTTP Check Method (changes on frontend/backend)
 Fixed a bug on darkmode via windows theme
 Added datacenter infos on http checker
 ```
-### 18.04.2024 `v1.7` ⭐️🔥
+### 18.04.2024 `v1.7` ⭐️
 ```
 Fixed a bug between /wtheme and /wmode
 Now the fonts are directly loaded in body
