@@ -1,5 +1,5 @@
 # UPDATE LIST
-### 18.04.2024 `v1.8`
+### 22.04.2024 `v1.8`
 ```
 Improved the Serverside speed
 Improved HTTP Check Method (changes on frontend/backend)
