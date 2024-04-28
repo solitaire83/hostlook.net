@@ -1,4 +1,12 @@
 # UPDATE LIST
+### 27.04.2024 `v1.9`
+```
+Now the DNS checker can also check IPs, not just web domains
+Fixed a critical bug on swtiching the window themes
+Improved the component preloader
+Fixed a bug when pressing the buttons that caused the dark mode to be applied with a delay
+Other improvements and rewritings + preparations for v2
+```
 ### 22.04.2024 `v1.8`
 ```
 Improved the Serverside speed
@@ -14,7 +22,7 @@ Removed the old loading animation of the window
 Added a new loading animation to the window
 Optimized and improved the way of loading the components
 Added other preventive measures to secure the app
-Optimizations & preparations on the next major update
+Optimizations & preparations on the next major update (v2)
 ```
 ### 10.04.2024 `v1.6`
 ```
