@@ -1,8 +1,9 @@
 # hostlook.net
 Official announcements &amp; updates of hostlook.net
 
-Version: `1.8` <sub>(deployed)</sub>
+Version: `1.9` <sub>(deployed)</sub>
 
+## ``📣 28.04.2024`` <br>v1.9 has officially replaced v1.7 as the most stable version!
 ## ``📣 21.04.2024`` <br>Added 1 server for HTTP Checking! Enjoy 🔥🔥
 ## ``📣 18.04.2024`` <br>Nevermind, our servers got suspended! I will try in the next days to get at least one server for HTTP Checking
 ## ``📣 17.04.2024`` <br>Everything works fine now!
